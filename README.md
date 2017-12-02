@@ -14,3 +14,6 @@ public void onBackPressed(){
 
 ```
 Just removed `super.onBackPressed();` line.
+
+Follow on Web:
+http://bd.nas-tec.ml/blog/2017/12/02/disable-back-button-in-android-activity/
